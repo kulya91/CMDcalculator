@@ -1,0 +1,2 @@
+D:\vs\workspce\demo\Debug\demo.exe
+D:\vs\workspce\demo\Debug\demo.pdb

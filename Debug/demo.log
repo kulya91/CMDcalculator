@@ -1,0 +1,8 @@
+﻿  demo.cpp
+D:\vs\workspce\demo\demo.cpp(28,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\workspce\demo\demo.cpp(38,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\workspce\demo\demo.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\workspce\demo\demo.cpp(68,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\workspce\demo\demo.cpp(85,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs\workspce\demo\demo.cpp(91,20): warning C4018: “<”: 有符号/无符号不匹配
+  demo.vcxproj -> D:\vs\workspce\demo\Debug\demo.exe
